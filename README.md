@@ -1,27 +1,30 @@
-# package_name
+# image_processing034
 
-Description. 
-The package package_name is used to:
-	- 
-	-
+Description.
+
+The package image_processing034 is used to:
+
+#Processing:
+
+	-Histogram Matching
+	-Structural similarity
+	-Resize image
+Utils:
+
+	-Read & Save image
+	-Plot image
+	-Plot result & histogram
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image_processing034
 
 ```bash
-pip install package_name
-```
-
-## Usage
-
-```python
-from package_name import file1_name
-file1_name.my_function()
+pip install image_processing034
 ```
 
 ## Author
-My_name
+Edyane_Araujo
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
